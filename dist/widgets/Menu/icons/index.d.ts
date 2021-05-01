@@ -28,3 +28,4 @@ export { default as EggHouseIcon } from "./EggHouse";
 export { default as FoxIcon } from "./Fox";
 export { default as ForestIcon } from "./Forest";
 export { default as BurningIcon } from "./Burning";
+export { default as CoinFlipIcon } from "./CoinFlip";
