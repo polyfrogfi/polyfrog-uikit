@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/polyfrogfi/",
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://polyfrog.gitbook.io/polyfrogfi/",
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://polyfrogfi.medium.com/",
       },
     ],
   },
@@ -120,18 +120,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/polyfoxfi",
+        href: "https://t.me/polyfrogfi",
       },
       {
         label: "Announcements",
-        href: "https://t.me/polyfoxann",
+        href: "https://t.me/polyfrogann",
       }
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/Polyfoxfi",
+    href: "https://twitter.com/Polyfrogfi",
   }
 ];
 
